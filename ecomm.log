@@ -1,0 +1,4 @@
+[Mon Mar 20 21:10:15.747204 2023] [authz_core:error] [pid 6112:tid 6265] [client 127.0.0.1:43350] AH01630: client denied by server configuration: /home/Shade0R/learning-laravel/E-comm/public/
+[Mon Mar 20 21:27:52.571579 2023] [core:crit] [pid 7815:tid 7953] (13)Permission denied: [client 127.0.0.1:34270] AH00529: /home/Shade0R/learning-laravel/E-comm/public/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/home/Shade0R/learning-laravel/E-comm/public/' is executable
+[Fri Apr 28 16:53:32.688002 2023] [proxy:error] [pid 11786:tid 11910] (2)No such file or directory: AH02454: FCGI: attempt to connect to Unix domain socket /run/php-fpm/www.sock (*:80) failed
+[Fri Apr 28 16:53:32.688077 2023] [proxy_fcgi:error] [pid 11786:tid 11910] [client 127.0.0.1:54596] AH01079: failed to make connection to backend: httpd-UDS
